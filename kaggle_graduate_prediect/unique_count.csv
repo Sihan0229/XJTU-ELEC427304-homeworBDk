@@ -1,0 +1,9 @@
+,columns,in_training,training + test
+0,Application mode,22,24
+1,Course,19,23
+2,Previous qualification,21,22
+3,Nacionality,18,19
+4,Mother's qualification,35,37
+5,Father's qualification,39,41
+6,Mother's occupation,40,45
+7,Father's occupation,56,58
